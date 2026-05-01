@@ -8,9 +8,9 @@ msg = MIMEMultipart()
 texto = "Estou enviando um email com Python"
 
 #parâmetros
-senha = "Annajulia133"
-msg['From'] = "dumatubones1@gmail.com"
-msg['To'] = "minecraftgemebr@gmail.com"
+senha = "SENHA"
+msg['From'] = "SEU EMAIL"
+msg['To'] = "DESTINO"
 msg['Subject'] = "Texte De server python"
 
 #criação do corpo da mensagem
